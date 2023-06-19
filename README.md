@@ -1,7 +1,7 @@
 # robot_slam
 
 ## Summary
-This description provides an overview of the autonomous driving part of this project. Prior to the explanation, please note that this project was developed in the following environment: PC with Ubuntu 18.04 LTS and Melodic, Turtlebot3 with Kinetic. It does not guarantee compatibility with other distributions. Additionally, it is assumed that the user has basic knowledge of ROS and has a PC with ROS installed as well as a Turtlebot3. And we uploaded the result of this project. Please refer to this [YouTube video](https://youtu.be/7_lBd4AszNM).
+This description provides an overview of the autonomous driving part of this project. Prior to the explanation, please note that this project was developed in the following environment: PC with Ubuntu 18.04 LTS and Melodic, Turtlebot3 with Kinetic. It does not guarantee compatibility with other distributions. Additionally, it is assumed that the user has basic knowledge of ROS and has a PC with ROS installed as well as a Turtlebot3. And we uploaded the result of this project. Please refer to this [YouTube video](https://youtu.be/7_lBd4AszNM) and [Notion](https://www.notion.so/robotiz/Smart-Fulfillment-Center-8be6ed65c21d49b2bb9968b0afbfb8cf).
 
 ## Set up
 1. Install ROS through [the official ROS website](http://wiki.ros.org/Distributions).
